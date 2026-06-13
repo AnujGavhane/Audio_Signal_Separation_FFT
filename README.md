@@ -39,9 +39,3 @@ This project focuses on separating vocal and instrumental components from an aud
 * Audio restoration
 * Speech enhancement
 * Signal processing research
-
-## Future Improvements
-
-* Adaptive filtering
-* Machine learning-based source separation
-* Real-time implementation
